@@ -1,0 +1,10 @@
+.brand{
+    font-family:'sans-serif',cursive,monospace;
+}
+
+.card-img{
+    max-width: 200px;
+    padding: 1.5rem;
+    height: auto;
+}
+
